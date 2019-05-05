@@ -7,4 +7,9 @@ with multiple connections per package.
 AppImageLauncher makes your Linux desktop AppImage ready
 
 *** [[https://github.com/erguotou520/electron-ssr][electron-ssr]]
+*** [[https://github.com/ubuntu/gnome-shell-extension-appindicator][gnome-shell-extension-appindicator]]
+    the pop os does provide this addindicator。
+so on top right of the menubar is no app icons showed.
+
+
 
